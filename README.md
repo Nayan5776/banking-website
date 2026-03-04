@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Expense Tracker (Python)
 
 ## Description
@@ -41,3 +42,7 @@ A console-based Library Management System to demonstrate core Data Structures & 
 - Applied DSA concepts in a real-world scenario
 - Practiced Python functions and modular code
 - Improved problem-solving and logical thinking
+=======
+# banking-website
+Frontend banking-themed website with multi-page structure, CSS styling, JavaScript calculator, and modular file organisation.
+>>>>>>> f64025556e2fc11676e8026cd081f577758eb989
